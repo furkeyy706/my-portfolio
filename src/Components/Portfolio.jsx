@@ -44,14 +44,12 @@ const projectList = [
   },
   {
     title: "Monster Search App - Monsters Rolodex",
-    description:
-      "Monster search application with filtering feature that I developed with React.Js",
+    description: "Monster search application with filtering feature that I developed with React.Js",
     url: "https://furkeyy706.github.io/Monsters-Rolodex-React/",
   },
   {
     title: "Qr Code Generator",
-    description:
-      "QR code creation application I developed using create-qr-code API and react-js",
+    description: "QR code creation application I developed using create-qr-code API and react-js",
     url: "https://furkeyy706.github.io/qr-code-generator-react/",
   },
 ];
@@ -64,7 +62,12 @@ const Portfolio = () => {
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
           <img
             src={image}
-            style={{ height: "90%", width: "100%", objectFit: "cover", animation: "1s ease-out 0s 1 slideInLeft" }}
+            style={{
+              height: "90%",
+              width: "100%",
+              objectFit: "cover",
+              animation: "1s ease-out 0s 1 slideInLeft",
+            }}
             alt={imageAltText}
           />
         </div>
