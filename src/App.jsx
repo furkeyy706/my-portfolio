@@ -27,7 +27,7 @@ const siteProps = {
   name: "Furkan Soner",
   title: "Front-End Developer",
   email: "furkansoner99@gmail.com",
-  gitHub: "https://github.com/furkeyy706",
+  gitHub: "furkeyy706",
   linkedIn: "https://tr.linkedin.com/in/furkan-soner01",
 };
 
