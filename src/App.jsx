@@ -28,7 +28,7 @@ const siteProps = {
   title: "Front-End Developer",
   email: "furkansoner99@gmail.com",
   gitHub: "furkeyy706",
-  linkedIn: "https://tr.linkedin.com/in/furkan-soner01",
+  linkedIn: "furkan-soner01",
 };
 
 const primaryColor = "#4E567E";
