@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Massive E-Commerce React Web App - Zenith Clothing",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+      "An e-commerce site that users can interact with, which I developed using React.js.",
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Diabetes Admin Panel",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Diabetes admin panel I developed for the company I work for. A system where the admin who logs into the system can monitor and control the information entered by their patients on a daily basis.",
+    url: "diabetesyonetici.netlify.app",
   },
   {
-    title: "My Resume Site",
+    title: "Monster Search App - Monsters Rolodex",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Monster search application with filtering feature that I developed with React.Js",
+    url: "https://furkeyy706.github.io/Monsters-Rolodex-React/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Qr Code Generator",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "QR code creation application I developed using create-qr-code API and react-js",
+    url: "https://furkeyy706.github.io/qr-code-generator-react/",
   },
 ];
 
