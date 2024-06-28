@@ -34,7 +34,7 @@ const projectList = [
     title: "Massive E-Commerce React Web App - Zenith Clothing",
     description:
       "An e-commerce site that users can interact with, which I developed using React.js.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    url: "https://github.com/furkeyy706/zenith-clothing-react",
   },
   {
     title: "Diabetes Admin Panel",
